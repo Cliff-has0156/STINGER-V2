@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348187637779"
+global.ownernomer = "+17864445476"
 global.ownername = "ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑"
 global.ytname = "YT: paskito"
 global.socialm = "GitHub: paskito002"
 global.location = "Nigeria,Cross River,Calabar"
 
-global.ownernumber = '2348187637779'  //creator number
-global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑' //owner name
+global.ownernumber = '+17864445476'  //creator number
+global.ownername = 'ANONYMOUS'//owner name
 global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
 
 //sticker details
@@ -37,7 +37,7 @@ global.prefa = ['.']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
@@ -59,10 +59,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'Stinger-V2 can be used by premium user only',
+    prem: '+17864445476',
     admin: 'Stinger-V2 can be used by ES TEAMS only',
     botAdmin: 'Stinger-V2 can only be used when the bot is a group admin ',
-    owner: 'Stinger-V2 can be used by  ES TEAMS only',
+    owner: '+17864445476',
     group: 'Stinger-V2 is only for groups',
     private: 'Stinger-V2  is only for private chats',
     wait: 'Es Teams is processing your request 😘... ',    
